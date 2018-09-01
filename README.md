@@ -9,9 +9,9 @@ Notes:
 
 Data Fields:
 
-datetime - hourly date + timestamp  
-season -  1 = winter, 2 = spring, 3 = summer, 4 = autumn 
-holiday - whether the day is considered a holiday
+datetime - hourly date + timestamp/  
+season -  1 = winter, 2 = spring, 3 = summer, 4 = autumn/ 
+holiday - whether the day is considered a holiday/
 workingday - whether the day is neither a weekend nor holiday
 weather - 1: Clear, Few clouds, Partly cloudy, Partly cloudy 
 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist 
