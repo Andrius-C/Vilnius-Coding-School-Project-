@@ -26,4 +26,5 @@ registered - number of registered user rentals initiated
 count - number of total rentals
 
 Objectives:
+
 Compare linear regression and random forest models performance in predicting bicycle rent demand for "Capital Bikeshare" 
